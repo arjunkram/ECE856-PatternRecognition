@@ -1,2 +1,2 @@
 # Naive-Bayesian-Classifier
-bla bla bla
+Implemented in MATLAB as part of ECE 8560 - Pattern Recognition Coursework
